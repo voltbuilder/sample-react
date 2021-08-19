@@ -16,7 +16,7 @@ Consult the Apache Cordova documention for all of the features of Cordova.
 
 ## How to run
 
-1. Download the project in zip format to your system.
+1. Download the project as a [zip file](https://github.com/voltbuilder/sample-react/archive/refs/heads/main.zip).
 1. [Upload to VoltBuilder](https://volt.build/upload/) using the Android option.
 1. Wait about a minute for it to finish.
 1. Install the apk that is returned onto your device.
