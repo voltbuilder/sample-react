@@ -1,6 +1,9 @@
 # React Template
 A simple React project for VoltBuilder apps.
 
+VoltBuilder is a build service which generates Android and iOS executables from your React project.
+There is no need to install Android Studio, Xcode, or to have a Mac.
+
 This project is made using the [standard React Tutorial](https://reactjs.org/tutorial/tutorial.html).
 After the tutorial is complete, you should have a dist folder in your project.
 Copy the contents of that to the www folder in this project.
